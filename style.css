@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.section{
+    border: 1px solid rgb(15, 77, 192);
+    background-color: rgb(15, 77, 192) ;
+    padding: 0 16rem;
+}
+ul{
+    list-style-type: none; 
+}
+ul li{
+    display: inline;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    margin-left: 80px;
+}
+ul li a:hover{
+    color: rgb(207, 151, 151);
+}
